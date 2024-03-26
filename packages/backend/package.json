@@ -1,0 +1,14 @@
+{
+  "name": "@sb/backend",
+  "version": "2.6.0",
+  "scripts": {
+    "lint:js": "eslint ."
+  },
+  "devDependencies": {
+    "@sb/core": "*",
+    "@sb/infra-core": "*",
+    "@sb/infra-shared": "*",
+    "@sb/tools": "*",
+    "fs-extra": "^11.2.0"
+  }
+}
